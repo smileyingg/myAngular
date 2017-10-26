@@ -1,0 +1,15 @@
+body
+{
+    margin: 0px;
+    padding: 10px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 12pt;
+    color: rgba(0,0,0,.6);
+    background-color:#F2F2F2; 
+}
+h1, h2, h3, 
+{
+    margin: 0;
+    padding: 10px;
+    color: #404040;
+}
